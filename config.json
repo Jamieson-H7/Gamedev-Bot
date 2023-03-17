@@ -1,8 +1,9 @@
 {
-	"token": "",
-    "guildId": "",
+		"token": "",
+    "guildId": 0,
     "clientId": "",
     "readRulesRoleId" : "",
+		"rulesMessageId": "",
     "gamersRoleId" : "",
     "masterKeyB4A" : ""
 }
